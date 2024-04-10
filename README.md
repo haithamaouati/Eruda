@@ -1,7 +1,14 @@
 # Eruda
-Eruda userscript a console for mobile browsers.
+**Eruda** Console for Mobile Browsers.
 
-## Userscript
+![eruda](https://raw.githubusercontent.com/haithamaouati/Eruda/main/eruda.jpeg)
+
+## Demo 
+Browse it on your phone: https://eruda.liriliri.io/
+
+In order to try it for different sites, execute the script below on [Via](https://viayoo.com/en/) browser
+
+###### Userscript
 ```javascript
 // ==UserScript==
 // @name         Eruda
