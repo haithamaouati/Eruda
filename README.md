@@ -72,4 +72,9 @@ https://raw.githubusercontent.com/haithamaouati/Eruda/refs/heads/main/Eruda.js
 ## Contributors
 Developer | Author
 --- | ---
-![pfp](https://raw.githubusercontent.com/haithamaouati/haithamaouati/refs/heads/main/avatar.png)[@haithamaouati](https://github.com/haithamaouati) | [@reemaouati](https://github.com/reemaouati)
+[@haithamaouati](https://github.com/haithamaouati) | [@reemaouati](https://github.com/reemaouati)
+
+# add required write permission
+- uses: akhilmhdh/contributors-readme-action@v2.3.11
+  env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
