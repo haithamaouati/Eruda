@@ -68,11 +68,3 @@ https://raw.githubusercontent.com/haithamaouati/Eruda/refs/heads/main/Eruda.js
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=haithamaouati/Eruda&type=date&legend=top-left)](https://www.star-history.com/#haithamaouati/Eruda&type=date&legend=top-left)
-
-## Contributors
-Developer | Author
---- | ---
-[@haithamaouati](https://github.com/haithamaouati) | [@reemaouati](https://github.com/reemaouati)
-
-- name: Contribute List
-  uses: akhilmhdh/contributors-readme-action@v2.3.11
