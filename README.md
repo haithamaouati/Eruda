@@ -72,4 +72,4 @@ https://raw.githubusercontent.com/haithamaouati/Eruda/refs/heads/main/Eruda.js
 ## Contributors
 Developer | Author
 --- | ---
-[@haithamaouati](https://github.com/haithamaouati) | [@reemaouati](https://github.com/reemaouati)
+![pfp](https://raw.githubusercontent.com/haithamaouati/haithamaouati/refs/heads/main/avatar.png)[@haithamaouati](https://github.com/haithamaouati) | [@reemaouati](https://github.com/reemaouati)
