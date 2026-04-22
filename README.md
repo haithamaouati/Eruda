@@ -10,19 +10,20 @@ Usage Instructions for [Via](https://viayoo.com/en/) Browser
 
 1. ​Open Via Browser.
 2. ​Navigate to `Settings` > `Scripts`.
-3. Click `New Script`.
-4. Paste the code provided below and save.
-5. ​Upon visiting any website, a semi-transparent `gear` icon will appear in the bottom corner; tap it to access the Console, Elements, Network, and Resource tabs.
+3. Enable `Enable scripts`.
+4. Click `+` > `New Script`.
+5. Paste the code provided below and save.
 
 Usage Instructions for [Soul](https://play.google.com/store/apps/details?id=com.mycompany.app.soulbrowser&hl=en) Browser
 
 1. ​Open Soul Browser.
 2. ​Navigate to `Settings` > `Web content`.
-3. Enable `Use UserScript`.
-4. Go to `UserScript list`.
-5. Click `+` > `URL`.
-6. Paste the code provided below and save.
-7. ​Upon visiting any website, a semi-transparent `gear` icon will appear in the bottom corner; tap it to access the Console, Elements, Network, and Resource tabs.
+3. Enable `Use UserScript` > `UserScript list`.
+4. Click `+` > `Direct input`.
+5. Paste the code provided below and save.
+
+> [!TIP]
+> Upon visiting any website, a semi-transparent `gear` icon will appear in the bottom corner; tap it to access the Console, Elements, Network, and Resource tabs.
 
 ###### Userscript
 ```javascript
@@ -63,3 +64,8 @@ Import script from URL:
 ```
 https://raw.githubusercontent.com/haithamaouati/Eruda/refs/heads/main/Eruda.js
 ```
+
+## Contributors
+Developer | Author
+--- | ---
+@haithamaouati | @reemaouati
