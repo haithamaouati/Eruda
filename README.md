@@ -65,7 +65,11 @@ Import script from URL:
 https://raw.githubusercontent.com/haithamaouati/Eruda/refs/heads/main/Eruda.js
 ```
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=haithamaouati/Eruda&type=date&legend=top-left)](https://www.star-history.com/#haithamaouati/Eruda&type=date&legend=top-left)
+
 ## Contributors
 Developer | Author
 --- | ---
-@haithamaouati | @reemaouati
+[@haithamaouati](https://github.com/haithamaouati) | [@reemaouati](https://github.com/reemaouati)
