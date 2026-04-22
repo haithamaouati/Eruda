@@ -74,7 +74,5 @@ Developer | Author
 --- | ---
 [@haithamaouati](https://github.com/haithamaouati) | [@reemaouati](https://github.com/reemaouati)
 
-# add required write permission
-- uses: akhilmhdh/contributors-readme-action@v2.3.11
-  env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+- name: Contribute List
+  uses: akhilmhdh/contributors-readme-action@v2.3.11
