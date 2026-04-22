@@ -14,6 +14,16 @@ Usage Instructions for [Via](https://viayoo.com/en/) Browser
 4. Paste the code provided below and save.
 5. ​Upon visiting any website, a semi-transparent `gear` icon will appear in the bottom corner; tap it to access the Console, Elements, Network, and Resource tabs.
 
+Usage Instructions for [Soul](https://play.google.com/store/apps/details?id=com.mycompany.app.soulbrowser&hl=en) Browser
+
+1. ​Open Soul Browser.
+2. ​Navigate to `Settings` > `Web content`.
+3. Enable `Use UserScript`.
+4. Go to `UserScript list`.
+5. Click `+` > `URL`.
+6. Paste the code provided below and save.
+7. ​Upon visiting any website, a semi-transparent `gear` icon will appear in the bottom corner; tap it to access the Console, Elements, Network, and Resource tabs.
+
 ###### Userscript
 ```javascript
 // ==UserScript==
